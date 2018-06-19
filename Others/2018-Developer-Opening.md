@@ -1,4 +1,6 @@
-SYNCFUSION is conducting Walk-in for .NET developers 2018 Pass outs (Fresher’s) on June 23, 2018,  Please find the details below:
+<b>SYNCFUSION is conducting Walk-in for .NET developers 2018 Pass outs (Fresherâ€™s) on June 23, 2018</b>
+
+Please find the details below,
 
 Software Developers: A unique opportunity at a product company
 
