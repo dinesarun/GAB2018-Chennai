@@ -26,6 +26,3 @@ Eymard Complex, AJ217,
 4th Avenue, Anna Nagar,
 Chennai -40.
 Landline : 044-26210413 Extension : 409
-
-
-For any clarifications please contact the Recruitment team email id:  recruitment@syncfusion.com
